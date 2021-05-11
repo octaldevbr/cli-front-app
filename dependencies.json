@@ -1,0 +1,9 @@
+{
+    "@octaldev/react-modal": "0.0.5",
+    "@octaldev/react-router": "0.0.4",
+    "@octaldev/utils": "0.0.7",
+    "react": "16.9.0",
+    "react-native": "0.61.0",
+    "react-native-vector-icons": "^8.1.0",
+    "styled-components": "^5.3.0"
+}
